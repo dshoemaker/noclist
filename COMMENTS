@@ -1,0 +1,8 @@
+# NOC List
+
+## Install + Run Instructions
+
+```
+bundle install
+ruby script.rb
+```
